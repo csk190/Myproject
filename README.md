@@ -4,7 +4,7 @@ This repository contains the source code for an EdTech-Integrated Adaptive Langu
 
 ---
 
-## 🏫 1. Teaching Context([AI Fusion English Class 앱 바로가기](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/)
+## 🏫 1. Teaching Context([AI Fusion English Class 앱 바로가기](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/))
 
 * **Learners Profile:** The target learners are 1st-grade students at **Seosang High School** (mixed-ability, approximately 20–25 students per class). Students exhibit varying levels of intrinsic motivation, with a distinct polarization between upper-tier fluent readers and lower-tier students struggling with foundational syntax and core vocabulary.
 * **Classroom Environment:** The lesson takes place in a fully upgraded smart-classroom ecosystem. Every student is equipped with a personal smart device (tablet, Chromebook, or smartphone) connected to high-speed school Wi-Fi. The front wall features an interactive smart board for synchronized instructor-led anchor scaffolding.
