@@ -53,7 +53,7 @@ This repository contains the source code for an EdTech-Integrated Adaptive Langu
 | **Development 1** | 7 min. | • Pre-reading schema activation<br>• Text-topic prediction and inference | **02 🎬 Embedded Media Stream & Concept Anchor**<br>• Delivers zero-buffering background media or interactive image prompts directly within the app UI to trigger initial interest. |
 | **Development 2** | 15 min. | • **Jigsaw Phase 1 (Expert Groups):** Students focus on assigned text segments, analyzing syntax and extracting core details. | **03 📘 Digital Worksheet & Text Helper**<br>• Distributes platform-agnostic PDFs.<br>• Provides a 'Hint Box' with syntax breakdowns for low-achieving students. |
 | **Development 3** | 10 min. | • **Jigsaw Phase 2 (Home Groups):** Reciprocal teaching where experts synthesize and teach their assigned segment to peers. | **04 ⏳ Orchestration Class Timer**<br>• Displayed on the main smart board via the app interface to keep pacing strict, transparent, and focused. |
-| **Development 4** | 7 min. | • Individual accountability assessment<br>• Meta-cognitive feedback loop | **05 📖 Tiered Quiz & Analytics Engine**<br>• Students complete individual comprehension and grammar diagnostics with instant automated reasoning breakdowns. |
+| **Development 4** | 8 min. | • Individual accountability assessment<br>• Meta-cognitive feedback loop | **05 📖 Tiered Quiz & Analytics Engine**<br>• Students complete individual comprehension and grammar diagnostics with instant automated reasoning breakdowns. |
 | **Conclusion** | 5 min. | • Wrap-up, group reflection, and preview of upcoming extension writing. | **Physical Smart Board & Teacher Synthesis**<br>• Consolidates student findings and recognizes standout collaborative groups. |
 
 ---
