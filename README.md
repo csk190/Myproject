@@ -22,7 +22,7 @@ This repository contains the source code for an EdTech-Integrated Adaptive Langu
 
 ---
 
-## 🚀 3. App Purpose (`/Class_apps`)
+## 🚀 3. App Purpose (`/Class_apps(https://miniproject-djyhkowbsqtoov8yham3m9.streamlit.app/)
 
 * **Why it was Built:** The web application was engineered to unify isolated open-source tools into a zero-friction, single-URL interface. This removes the administrative overhead of directing students to multiple third-party URLs, minimizing distraction and safeguarding instructional time.
 * **Learning Needs Addressed:**
