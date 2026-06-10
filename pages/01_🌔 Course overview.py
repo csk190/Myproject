@@ -607,9 +607,14 @@ st.markdown("""
         소재별 지문 선택 → TTS 듣기 → AI 퀴즈 → AI 튜터 질문까지<br>
         영어 학습의 모든 과정을 한 앱에서 경험하세요.
     </div>
-    <a href="https://english-mastery-flow-v2-478242492699.us-west1.run.app" target="_blank" style="text-decoration: none;">
-        <span class="cta-btn">🎧 English Mastery Flow 실행하기</span>
-    </a>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="https://english-mastery-flow-v2-478242492699.us-west1.run.app" 
+           target="_blank" 
+           class="cta-btn" 
+           style="display: inline-block; text-decoration: none; cursor: pointer !important;">
+           🎧 English Mastery Flow 실행하기
+        </a>
+    </div>
 </div>
 """, unsafe_allow_html=True)
 
