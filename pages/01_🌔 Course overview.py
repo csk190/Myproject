@@ -607,7 +607,7 @@ st.markdown("""
         소재별 지문 선택 → TTS 듣기 → AI 퀴즈 → AI 튜터 질문까지<br>
         영어 학습의 모든 과정을 한 앱에서 경험하세요.
     </div>
-    <span class="cta-btn">🎧 앱 실행하기</span>
+    <span class="cta-btn">🎧 앱 실행하기(https://english-mastery-flow-v2-478242492699.us-west1.run.app)</span>
 </div>
 """, unsafe_allow_html=True)
 
